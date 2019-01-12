@@ -2,20 +2,22 @@
 
 > Collector PWA App (WarsawJS Workshop 28)
 
-## Build Setup
+Ten dokument opisuje aplikację którą będziemy kodować podczas WarsawJS Workshop #28 w tematyce PWA.
+
+## Instalacja i budowanie
 
 ``` bash
-# install dependencies
+# instalacja
 npm install
 
-# serve with hot reload at localhost:8080
+# build i hot reload na localhost:8080
 npm run dev
 
-# build for production with minification
+# build produkcyjny
 npm run build
 
-# build for production and view the bundle analyzer report
+# build prod z raportem
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Rozszerzony opis projektu: <https://docs.google.com/document/d/1mmIfX86o2C1DQunbQJvOO0gvbc7iaWy7BSVKzFshRlc/edit?usp=sharing>
